@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SparkFL_Insurance_ETL_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkFL_Insurance_ETL_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="SparkFL_Insurance_ETL" />
+    </root>
+  </artifact>
+</component>
